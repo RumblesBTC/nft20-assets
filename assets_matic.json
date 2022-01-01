@@ -258,4 +258,15 @@
     "metadata": "https://evertell.s3.amazonaws.com/api/filmNFT/",
     "metadata_extension": ".json"
   }
+     {
+    "name": "Riot Racers Drivers",
+    "symbol": "RRDRIVER20",
+    "logo": "https://twitter.com/RiotRacers/photo",
+    "color": "#c163f6",
+    "factory_version": 2,
+    "website": "https://www.riotracers.com/",
+    "description": "Riot Racers is a play-to-earn car racing game where players own parts of the game.",
+    "metadata": null,
+    "metadata_extension": false
+  },
 ]
