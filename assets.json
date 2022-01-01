@@ -2456,4 +2456,16 @@
     "uniswap_v3": false,
     "removedFees": false
   }
+   {
+    "name": "Riot Racers Drivers",
+    "symbol": "RRDRIVER20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/zv-r2X1DouiaCsT0C-8KeY2j_d8VR9pMTq0nIhPFda__IPc1OVqivwKPMik_tits30MwdRWKuYFaceHP9AMzpPeuJsio8-dgjr9AxQ=s130",
+    "uniswap": false,
+    "hide": false,      
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  }
 ]
